@@ -1,0 +1,4 @@
+1) Use Commons Validator for ActionForms
+2) Using Plugins, Plugin Lifecycle
+2) Introduce DynaValidator Forms (expln. only)
+3) Use Commons Validator for DynaValidatorForms (expln. only)
