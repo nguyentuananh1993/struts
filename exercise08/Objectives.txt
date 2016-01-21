@@ -1,2 +1,0 @@
-1) Splitting the application into two modules
-2) Using SwitchAction to navigate between modules

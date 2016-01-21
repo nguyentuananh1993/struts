@@ -1,1 +1,0 @@
-1) Using Tiles with Struts
